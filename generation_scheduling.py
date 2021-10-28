@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Taking input
-data = np.loadtxt("C:/Users/DELL/jupyter_notebooks/Generation Scheduling code/Generation_Scheduling/data.txt", dtype=float)
+data = np.loadtxt("/data.txt", dtype=float)
 # print(data)
 
 '''
